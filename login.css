@@ -1,0 +1,49 @@
+.login-container {
+  background-color: #f7f7f7;
+  padding: 20px;
+  border-radius: 25px;
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+}
+
+.login-form input {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.forgot-password {
+  display: block;
+  margin-bottom: 20px;
+  color: #f0ad4e;
+  text-decoration: none;
+}
+
+.login-form button {
+  background-color: #f0ad4e;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.signup {
+  margin-top: 20px;
+}
+
+.signup a {
+  color: #f0ad4e;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 480px) {
+  .login-container {
+    border-radius: 0;
+    max-width: 100%;
+  }
+}
