@@ -4,3 +4,6 @@ Vikram Malhotra
 Anshika singh
 Hardik Jain
 Niharika Mudgal
+
+
+deployed web link- https://swiggyuiclone.web.app/#/ 
